@@ -1,4 +1,4 @@
 # Demo
 my repository
 <br>
-Author-Chandan kumar
+Author-Chandan KUMAR
